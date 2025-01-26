@@ -1,7 +1,7 @@
 - 👋 Hi there!
 - I’m @AngshuSingha
 - 👀 I’m interested in ... Software Development
-- 🌱 I’m currently learning ... Mern stack
+- 🌱 I’m currently learning ... Full stack
 - 💞️ I’m looking to collaborate on ... Open to ideas—let's discuss!
 - 📫 How to reach me ...https://www.linkedin.com/in/angshuman-singha-8663b8344/
 - 😄 Pronouns: ...(He/Him)
