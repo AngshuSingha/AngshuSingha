@@ -1,11 +1,11 @@
 - 👋 Hi there!
 - I’m @AngshuSingha
-- 👀 I’m interested in ... Software Development
-- 🌱 I’m currently learning ... Full stack
+- 👀 I’m interested in ... 
+- 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ... Open to ideas—let's discuss!
 - 📫 How to reach me ...https://www.linkedin.com/in/angshuman-singha-8663b8344/
 - 😄 Pronouns: ...(He/Him)
-- ⚡ Fun fact: ...I’m a business management student making an exciting leap into the world of software and IT!
+- ⚡ Fun fact: ...I’m a business management student making an exciting leap into the world of....
  
 
 <!---
